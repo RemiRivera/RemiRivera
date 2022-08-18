@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RemiRivera!
-- 👀 I’m interested in coding, videogame development, art, and animation.
-- 🌱 I am experienced in Java, SQL, and Visual Basic. I am currently learning Python, and may also learn the Game Maker Language for personal game development.
+- 👀 I’m interested in coding, video game development, art, and animation.
+- 🌱 I am experienced in Java, SQL, Python, and Visual Basic.
 - 📫 You can reach me at remirivera25@gmail.com.
 
 <!---
